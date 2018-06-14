@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on duc</title>
+    <link>http://ducle2018.github.io/</link>
+    <description>Recent content in Home on duc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ldcduc.github.io/index.html" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test()</title>
+      <link>http://ldcduc.github.io/blogs/2018-06-15-test/</link>
+      <pubDate>Sun, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://ldcduc.github.io/blogs/2018-06-15-test/</guid>
+      <description>rand5() Developer An wants to get a random integer from the range of $[1, 5]$. Here comes one of the most common mistakes in the history of programming:
+random_number = random() % 5 + 1;  The problem is that: In most programming languages (such as C), the random() function will return a random number from the range $ [0, RAND\_MAX) $. Unless 5 divides RAND_MAX, the outcomes are not equally distributed.</description>
+    </item>
+    
+  </channel>
+</rss>
